@@ -1,0 +1,26 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    GitHub: https://github.com/jackytse
+    About: /about/
+    Rss: /atom.xml
+
+favicon: /favicon.ico
+logo: /logo.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo: 
+cloudTie:
+changyan: 
+    appid: cyssdmXPE
+    conf: prod_a5547932ad75f872719847b1a409c2fb
+
+# Analytics
+# google-analytics:
+ga: UA-65933410-1
+
+# Copyright Infomation
+startyear: 2016
+beian: 粤ICP备17051421号
